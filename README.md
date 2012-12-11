@@ -1,4 +1,4 @@
-# bit_knn - bit vector + popcnt k-Nearest Neighbor
+# bit_knn
 
 ## 注意点
 
